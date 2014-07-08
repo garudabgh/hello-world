@@ -1,4 +1,3 @@
 hello-world
 ===========
-
-to be deleted
+What a glorious white on black text editor! I love you, GitHub!
